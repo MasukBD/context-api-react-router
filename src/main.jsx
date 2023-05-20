@@ -20,7 +20,8 @@ const router = createBrowserRouter([
     children: [
       {
         path: '/',
-        element: <HomePage></HomePage>
+        element: <HomePage></HomePage>,
+        loader: () => fetch('tshirt.json')
       },
       {
         path: "/about",

@@ -3,15 +3,15 @@
         "_id": "623853b2614ad5aba311fdd1",
         "index": 0,
         "price": 14,
-        "picture": "https://i.pinimg.com/originals/9f/3d/13/9f3d13912d3cf78e4c87975bcebc1fee.jpg",
-        "name": "Just Chill",
+        "picture": "https://img.freepik.com/free-psd/simple-black-men-s-tee-mockup_53876-57893.jpg?size=626&ext=jpg&uid=R92674805&ga=GA1.1.2045846099.1676891277&semt=ais",
+        "name": "Full Black Long Shirt",
         "gender": "Just Chill"
     },
     {
         "_id": "623853b2578e9e6ad1ae0dd5",
         "index": 1,
-        "picture": "https://render.fineartamerica.com/images/rendered/default/t-shirt/23/30/images/artworkimages/medium/1/coffee-coding-syntax-aadil-farooq-transparent.png?targetx=0&targety=0&imagewidth=430&imageheight=516&modelwidth=430&modelheight=575",
-        "name": "Keep Coding",
+        "picture": "https://img.freepik.com/free-photo/t-shirt-with-forest-scene-it_1340-37688.jpg?size=626&ext=jpg&uid=R92674805&ga=GA1.2.2045846099.1676891277&semt=ais",
+        "name": "Just Chill Green View",
         "price": 27,
         "gender": "Keep Coding"
     },
@@ -19,7 +19,7 @@
         "_id": "623853b21fb149d2ee7b76c7",
         "index": 2,
         "picture": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "name": "Black",
+        "name": "Black Mumba",
         "price": 24,
         "gender": ""
     },
@@ -35,15 +35,15 @@
         "_id": "623853b2239582e48409ccc6",
         "index": 4,
         "price": 34,
-        "picture": "https://www.billbazar.com.bd/public/uploads/all/8hgD0lQGODVXbB5sokhvwr7mUNjBx7pEHusuyGZj.webp",
-        "name": "Bachelor",
+        "picture": "https://img.freepik.com/premium-vector/men-boys-wear-boxy-t-shirt-vector_529003-228.jpg?size=626&ext=jpg&uid=R92674805&ga=GA1.2.2045846099.1676891277&semt=ais",
+        "name": "Artistic View",
         "gender": "male"
     },
     {
         "_id": "623853b2cdda0d5bc294f791",
         "index": 5,
         "picture": "https://m.media-amazon.com/images/I/61GMJ+3ekAS._AC_UL320_.jpg",
-        "name": "Right Price",
+        "name": "Golden Boy",
         "price": 141,
         "gender": "male"
     },
@@ -51,7 +51,7 @@
         "_id": "623853b2736f19fd4eb8d44a",
         "index": 6,
         "price": 41,
-        "picture": "https://i.pinimg.com/236x/af/96/95/af9695e0116a1d859336024e6cdcea10.jpg",
+        "picture": "https://img.freepik.com/free-photo/white-t-shirt-with-black-sleeves_1409-2227.jpg?size=626&ext=jpg&uid=R92674805&ga=GA1.2.2045846099.1676891277&semt=ais",
         "name": "Black Skull",
         "gender": "female"
     }
