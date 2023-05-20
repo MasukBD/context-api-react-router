@@ -1,0 +1,13 @@
+/* eslint-disable no-unused-vars */
+import React from 'react';
+import './OrderReview.css'
+
+const OrderReview = () => {
+    return (
+        <div>
+
+        </div>
+    );
+};
+
+export default OrderReview;

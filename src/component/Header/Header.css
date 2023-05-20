@@ -1,0 +1,43 @@
+.container {
+    background-color: #120E43;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.link,
+.nav-heading {
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover,
+.nav-heading:hover {
+    color: orangered;
+}
+
+ul {
+    display: flex;
+}
+
+ul>li {
+    list-style: none;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.active {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.active:hover {
+    color: orangered;
+}
