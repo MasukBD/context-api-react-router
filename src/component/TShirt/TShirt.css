@@ -2,10 +2,12 @@
     border: 2px solid black;
     padding: 10px;
     border-radius: 5px;
+    display: flex;
+    flex-direction: column;
 }
 
 .t-shirt img {
-    height: 400px;
+    height: 300px;
     width: 100%;
 }
 
@@ -13,7 +15,7 @@
     width: 100%;
     padding: 10px;
     color: white;
-    background-color: rgba(255, 166, 0, 0.781);
+    background-color: #120E42;
     font-weight: 700;
     border-radius: 5px;
     font-size: 18px;
@@ -22,13 +24,20 @@
     justify-content: center;
     gap: 10px;
     border: none;
+    margin-top: auto;
 }
 
 .buy-btn:hover {
-    background-color: orangered;
+    background-color: #120E10;
 }
 
 .cart-icon {
     height: 20px;
     width: 20px;
+}
+
+@media screen and (max-width: 576px) {
+    .t-shirt img {
+        height: 400px;
+    }
 }

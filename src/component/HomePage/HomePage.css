@@ -1,14 +1,30 @@
-.home-page {
+.home-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 4fr 1fr;
     width: 90%;
     margin: 70px auto;
     gap: 20px;
+}
+
+.home-page {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.order-summary {
+    position: relative;
 }
 
 @media screen and (max-width: 576px) {
     .home-page {
         display: grid;
         grid-template-columns: 1fr;
+        order: 2;
+    }
+
+    .home-container {
+        grid-template-columns: 1fr;
+        order: 1;
     }
 }

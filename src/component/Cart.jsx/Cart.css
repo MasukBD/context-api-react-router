@@ -1,0 +1,8 @@
+.cart-container {
+    text-align: center;
+    background-color: #120E80;
+    color: white;
+    padding: 5px 10px;
+    position: sticky;
+    top: 70px;
+}

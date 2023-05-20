@@ -5,7 +5,7 @@ import './TShirt.css'
 import { ShoppingCartIcon } from '@heroicons/react/24/solid';
 
 
-const TShirt = ({ tShirt }) => {
+const TShirt = ({ tShirt, buyNow }) => {
     console.log(tShirt)
     const { _id, price, index, picture, name } = tShirt;
     return (
@@ -13,7 +13,7 @@ const TShirt = ({ tShirt }) => {
             <img src={picture} alt="" />
             <h3>Product Name: {name}</h3>
             <h4>Price: {price}</h4>
-            <button className='buy-btn'>Buy Now <span><ShoppingCartIcon className="cart-icon" /></span></button>
+            <button onClick={() => buyNow(tShirt)} className='buy-btn'>Buy Now <span><ShoppingCartIcon className="cart-icon" /></span></button>
         </div>
     );
 };
